@@ -21,3 +21,5 @@ The basic operations of these Functions are basically the same, but for every Se
 ---
 ## Some Additional Info
 The functions only require the link to the socialblade website as a String. The return of these functions is always the data you need as a list.
+
+**Project was for demonstration/learning purposes only**
